@@ -4,6 +4,10 @@ public class ConvertionProgramm {
     static final Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
         double Fahrenheit;
+        double Celsius;
+
+        System.out.println("Quelle convertion vouler vous ? :");
+        
 
 
         System.out.println("Entrer une temperature en Fahrenheit :");
